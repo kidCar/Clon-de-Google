@@ -1,0 +1,53 @@
+body{
+    background: white;
+}
+.navbar{
+    background: gainsboro;
+    width: auto;
+    height: 50px;
+    text-align: right;
+    margin-bottom: 10rem;
+}
+.google{    
+    text-align: center;
+    font-size: 100px;
+}
+.input{
+    display: flex;    
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;    
+    
+}
+.botones{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;    
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+center{
+    display: block;
+    text-align: -webkit-center;
+}
+footer{
+    background: gainsboro;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    padding: 10 16px;
+}
